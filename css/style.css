@@ -8,7 +8,7 @@
 /* global reset */
 :link,:visited { text-decoration:none } :focus, :active { outline: 0 } ul,ol { list-style:none } h1,h2,h3,h4,h5,h6,pre,code { font-size:1em; } ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input { margin:0; padding:0 } a img,:link img,:visited img { border:none } address { font-style:normal }
 body { font: .74em Arial, Sans-Serif; background: #F0DAF2 url(.images/bg.gif) repeat-x; color: #333; line-height: 1.6em; }
-a { color: #752B7D; text-decoration: underline; }
+a { color: #1906f0; text-decoration: underline; }
 a:hover { color: #808080; }
 p  { margin: 5px 0 15px;}
 h2 { background: url(.images/bullet.gif) no-repeat left 6px; font-size: 1.2em; padding: 0 0 0 9px; }
